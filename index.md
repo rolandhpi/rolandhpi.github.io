@@ -7,3 +7,6 @@ Speedy Gonzales (auch Speedy Gonzalez) ist eine Zeichentrick-Maus aus der Serie 
 * Schnell
 * Spanischer Akzent
 * Rotes Halstuch
+
+> Arriba Arriba!
+> Ándale, Ándale!
