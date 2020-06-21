@@ -10,3 +10,5 @@ Speedy Gonzales (auch Speedy Gonzalez) ist eine Zeichentrick-Maus aus der Serie 
 
 > Arriba Arriba!
 > Ándale, Ándale!
+
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Speedy_gonzalez2.svg/361px-Speedy_gonzalez2.svg.png"/>
